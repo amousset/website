@@ -4,8 +4,7 @@
 * [GitHub](https://github.com/amousset)
 * [Bitbucket](https://bitbucket.org/amousset)
 * [LinkedIn](https://www.linkedin.com/profile/view?id=185132802&locale=en_US) 
-* [Twitter](https://twitter.com/AlexisMousset)
-* [Contact](mailto:contact@amousset.me)
+* [Email](mailto:contact@amousset.me)
 
 ## Resume [[pdf](resume.pdf)]
 
@@ -13,8 +12,9 @@
 
 ### Education
 
-
 `2011-2015` Ingineering student in final year at **Télécom Sudparis** (*Évry, France*), specializing in distributed systems architecture.
+
+`2009-2011` Preparation for national competitive exams to French engineering schools at **Lycée Chateaubriand** (*Rennes, France*)
 
 ---
 
