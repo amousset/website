@@ -5,7 +5,7 @@ locale: en_US
 description: A few notes.
 #logo: logo.jpg
 search: true
-url: http://localhost:4000
+url: http://amousset.me
 
 # Jekyll configuration
 
