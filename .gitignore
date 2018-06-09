@@ -1,6 +1,7 @@
 venv/
 env/
 build/
+.idea/
 *.pyc
 *.log
 config.py
